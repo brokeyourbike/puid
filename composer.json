@@ -1,0 +1,18 @@
+{
+    "name": "brokeyourbike/puid",
+    "description": "Probably Unique Identifier (PUID)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Brokeyourbike\\Puid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Stasiuk",
+            "email": "brokeyourbike@gmail.com"
+        }
+    ],
+    "require": {}
+}
